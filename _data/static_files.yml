@@ -2383,6 +2383,14 @@
   - gif
   - headbob
   - yoda
+- title: dingdong.gif
+  category: hello
+  path: hello/dingdong.gif
+  modified_time: 1509196595
+  tags:
+  - dingdong
+  - gif
+  - hello
 - title: he-man-help.gif
   category: help
   path: help/he-man-help.gif
