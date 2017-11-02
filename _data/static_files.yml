@@ -374,6 +374,31 @@
   - elephant
   - gif
   - wave
+- title: canada_mountie_yes.gif
+  category: canada
+  path: canada/canada_mountie_yes.gif
+  modified_time: 1508872839
+  tags:
+  - canada
+  - gif
+  - mountie
+  - 'yes'
+- title: canada_sparkles.gif
+  category: canada
+  path: canada/canada_sparkles.gif
+  modified_time: 1508872839
+  tags:
+  - canada
+  - gif
+  - sparkles
+- title: canada_summer.gif
+  category: canada
+  path: canada/canada_summer.gif
+  modified_time: 1508872839
+  tags:
+  - canada
+  - gif
+  - summer
 - title: canadian_being_born.gif
   category: canada
   path: canada/canadian_being_born.gif
@@ -384,6 +409,35 @@
   - canada
   - canadian
   - gif
+- title: canadian_forces.gif
+  category: canada
+  path: canada/canadian_forces.gif
+  modified_time: 1508872839
+  tags:
+  - canada
+  - canadian
+  - forces
+  - gif
+- title: canadians_brave.gif
+  category: canada
+  path: canada/canadians_brave.gif
+  modified_time: 1508872839
+  tags:
+  - brave
+  - canada
+  - canadians
+  - gif
+- title: cant_make_me_angry.gif
+  category: canada
+  path: canada/cant_make_me_angry.gif
+  modified_time: 1508872839
+  tags:
+  - angry
+  - canada
+  - cant
+  - gif
+  - make
+  - me
 - title: indiana-jones-sand-bag.gif
   category: careful
   path: careful/indiana-jones-sand-bag.gif
@@ -3998,63 +4052,6 @@
   - gif
   - original
   - sensor
-- title: canada_mountie_yes.gif
-  category: original
-  path: original/canada_mountie_yes.gif
-  modified_time: 1508872839
-  tags:
-  - canada
-  - gif
-  - mountie
-  - original
-  - 'yes'
-- title: canada_sparkles.gif
-  category: original
-  path: original/canada_sparkles.gif
-  modified_time: 1508872839
-  tags:
-  - canada
-  - gif
-  - original
-  - sparkles
-- title: canada_summer.gif
-  category: original
-  path: original/canada_summer.gif
-  modified_time: 1508872839
-  tags:
-  - canada
-  - gif
-  - original
-  - summer
-- title: canadian_forces.gif
-  category: original
-  path: original/canadian_forces.gif
-  modified_time: 1508872839
-  tags:
-  - canadian
-  - forces
-  - gif
-  - original
-- title: canadians_brave.gif
-  category: original
-  path: original/canadians_brave.gif
-  modified_time: 1508872839
-  tags:
-  - brave
-  - canadians
-  - gif
-  - original
-- title: cant_make_me_angry.gif
-  category: original
-  path: original/cant_make_me_angry.gif
-  modified_time: 1508872839
-  tags:
-  - angry
-  - cant
-  - gif
-  - make
-  - me
-  - original
 - title: castle_flustered.gif
   category: original
   path: original/castle_flustered.gif
