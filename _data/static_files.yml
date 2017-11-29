@@ -1775,6 +1775,14 @@
   - dance
   - fail
   - gif
+- title: dunk-fail.gif
+  category: fail
+  path: fail/dunk-fail.gif
+  modified_time: 1511969971
+  tags:
+  - dunk
+  - fail
+  - gif
 - title: ferret-fail.gif
   category: fail
   path: fail/ferret-fail.gif
