@@ -6550,6 +6550,15 @@
   - gif
   - 'yes'
   - yup
+- title: jay-salute.gif
+  category: 'yes'
+  path: yes/jay-salute.gif
+  modified_time: 1531773730
+  tags:
+  - gif
+  - jay
+  - salute
+  - 'yes'
 - title: mr-robot-pass.gif
   category: puff
   path: puff/mr-robot-pass.gif
