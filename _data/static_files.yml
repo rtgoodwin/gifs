@@ -1901,6 +1901,14 @@
   - gif
   - robot
   - smash
+- title: slide.gif
+  category: fail
+  path: fail/slide.gif
+  modified_time: 1538424612
+  tags:
+  - fail
+  - gif
+  - slide
 - title: truck-pool.gif
   category: fail
   path: fail/truck-pool.gif
