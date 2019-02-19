@@ -94,6 +94,14 @@
   - letterkenny
   - level
   - up
+- title: outstanding.gif
+  category: letterkenny
+  path: letterkenny/outstanding.gif
+  modified_time: 1550594033
+  tags:
+  - gif
+  - letterkenny
+  - outstanding
 - title: gooses.gif
   category: letterkenny
   path: letterkenny/gooses.gif
@@ -102,6 +110,17 @@
   - gif
   - gooses
   - letterkenny
+- title: wise_and_wonderful_lessons.gif
+  category: letterkenny
+  path: letterkenny/wise_and_wonderful_lessons.gif
+  modified_time: 1550594088
+  tags:
+  - and
+  - gif
+  - lessons
+  - letterkenny
+  - wise
+  - wonderful
 - title: can_confirm.gif
   category: letterkenny
   path: letterkenny/can_confirm.gif
@@ -140,6 +159,14 @@
   - gif
   - hooray
   - letterkenny
+- title: efficient.gif
+  category: letterkenny
+  path: letterkenny/efficient.gif
+  modified_time: 1550594104
+  tags:
+  - efficient
+  - gif
+  - letterkenny
 - title: beer_dance.gif
   category: letterkenny
   path: letterkenny/beer_dance.gif
@@ -158,6 +185,16 @@
   - gif
   - letterkenny
   - 'no'
+- title: doesnt_bother_me.gif
+  category: letterkenny
+  path: letterkenny/doesnt_bother_me.gif
+  modified_time: 1550594145
+  tags:
+  - bother
+  - doesnt
+  - gif
+  - letterkenny
+  - me
 - title: boom.gif
   category: letterkenny
   path: letterkenny/boom.gif
@@ -184,6 +221,14 @@
   - make
   - scared
   - you
+- title: allegedly.gif
+  category: letterkenny
+  path: letterkenny/allegedly.gif
+  modified_time: 1550594010
+  tags:
+  - allegedly
+  - gif
+  - letterkenny
 - title: one_way_to_handle_them.gif
   category: letterkenny
   path: letterkenny/one_way_to_handle_them.gif
@@ -225,6 +270,22 @@
   - letterkenny
   - will
   - you
+- title: appreciate.gif
+  category: letterkenny
+  path: letterkenny/appreciate.gif
+  modified_time: 1550594074
+  tags:
+  - appreciate
+  - gif
+  - letterkenny
+- title: clever.gif
+  category: letterkenny
+  path: letterkenny/clever.gif
+  modified_time: 1550594117
+  tags:
+  - clever
+  - gif
+  - letterkenny
 - title: friend.gif
   category: letterkenny
   path: letterkenny/friend.gif
