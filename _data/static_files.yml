@@ -237,6 +237,14 @@
   - letterkenny
   - not
   - this
+- title: dance.gif
+  category: letterkenny
+  path: letterkenny/dance.gif
+  modified_time: 1550675910
+  tags:
+  - dance
+  - gif
+  - letterkenny
 - title: hooray.gif
   category: letterkenny
   path: letterkenny/hooray.gif
@@ -244,6 +252,14 @@
   tags:
   - gif
   - hooray
+  - letterkenny
+- title: hug.gif
+  category: letterkenny
+  path: letterkenny/hug.gif
+  modified_time: 1550675871
+  tags:
+  - gif
+  - hug
   - letterkenny
 - title: efficient.gif
   category: letterkenny
